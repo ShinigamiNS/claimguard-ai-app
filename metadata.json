@@ -1,0 +1,5 @@
+{
+  "name": "ClaimGuard AI",
+  "description": "An intelligent two-step insurance claims processor. Step 1 extracts key data using Gemini Flash, and Step 2 verifies eligibility against policies using Gemini Pro.",
+  "requestFramePermissions": []
+}
